@@ -22,8 +22,8 @@ To get started with the project, follow these steps:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/felipedaniel1910@/brazilian-stock-market-analysis.git
-cd brazilian-stock-market-analysis
+git clone https://github.com/felipedaniel1910@/BrazilianStockMarket.git
+cd BrazilianStockMarket
 ```
 
 Make sure you have Python (version 3.6 or higher) installed.
